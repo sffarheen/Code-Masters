@@ -73,7 +73,7 @@ Code Master is a desktop quiz application built with Python, Tkinter, SQLite3, a
 
 2. Place the home-screen image-
 
-	Add an image named code masters image.png to the project       directory.
+	Add an image named code masters image.png to the project directory.
 
 3. Run the application-
 
@@ -95,118 +95,36 @@ Code Master is a desktop quiz application built with Python, Tkinter, SQLite3, a
 
 1.	Home screen: Launches start() → prompts sign-up or login
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   ![Screenshot 2025-06-15 150413](https://github.com/user-attachments/assets/8c694db2-ce87-4232-a3bf-104a087423c8)
 
 
 2.	Sign-Up: Collects and stores user info → proceeds to Login
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ![Screenshot 2025-06-15 150547](https://github.com/user-attachments/assets/310b0b48-23e6-4b13-bf06-13c5e9d8345b)
 
 
 3.	Login: Verifies credentials against SQLite DB → open menu
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![Screenshot 2025-06-15 150752](https://github.com/user-attachments/assets/4d700292-c8b0-49f3-b98c-897fb9c8f982)
 
 
 4.	Menu: Displays greeting + language selection (Python/Java/C)
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+ ![Screenshot 2025-06-15 150857](https://github.com/user-attachments/assets/fca90ebc-7b14-420a-a685-e8135b705697)
 
 
 5.	Quiz: 5 timed MCQs per session
-Each question: 10-second timer + Submit/Next    
+              Each question: 10-second timer + Submit/Next    
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-06-15 150914](https://github.com/user-attachments/assets/958b53b6-e46a-47ee-91d9-202faa7c294a)
 
 
 6.	Results: Shows score and pie chart breakdown     
 
-
-
- 
-
+![Screenshot 2025-06-15 151234](https://github.com/user-attachments/assets/61b187c9-61d4-4d64-bdcb-773dc2d3d09b)
 
 
 ✔ To-Do & Enhancements -
